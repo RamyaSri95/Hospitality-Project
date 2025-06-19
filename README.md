@@ -2,7 +2,7 @@
 This Power BI project focuses on analyzing hotel performance across multiple cities and room types in the hospitality sector. It provides a data-driven overview of operational efficiency, customer behavior, and revenue generation patterns.
 
 ## Key Features:
-KPI Overview Cards:
+### KPI Overview Cards:
 - Revenue, RevPAR (Revenue per Available Room), Occupancy %, ADR (Average Daily Rate), and Realisation %.
 - YoY trend indicators with arrows to visualize performance shifts.
 
